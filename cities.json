@@ -10,7 +10,7 @@
   },
   {
     "id": 745042,
-    "name": "İstanbul",
+    "name": "Istanbul",
     "country": "TR",
     "coord": {
       "lon": 28.983311,
@@ -118,7 +118,7 @@
   },
   {
     "id": 2618425,
-    "name": "Copenhagen",
+    "name": "Copenhaga",
     "state": "",
     "country": "DK",
     "coord": {
@@ -146,7 +146,7 @@
   },
   {
     "id": 2800867,
-    "name": "Bruxelles-Capitale",
+    "name": "Bruxelles",
     "country": "BE",
     "coord": {
       "lon": 4.35144,
@@ -164,7 +164,7 @@
   },
   {
     "id": 683506,
-    "name": "Bucharest",
+    "name": "București",
     "state": "",
     "country": "RO",
     "coord": {

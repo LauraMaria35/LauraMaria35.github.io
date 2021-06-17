@@ -51,9 +51,9 @@ const getWeather = (cityId = 683506) => {
         icon.src = `http://openweathermap.org/img/wn/${data.weather[0].icon}@2x.png`;
         weatherType.innerText = data.weather[0].description;
         time.innerText =`${date.toLocaleTimeString()}, ${date.toLocaleDateString()}`;
-        wind.innerText = `Wind ${data.wind.speed} m/s`;
-        humidity.innerText = `Humidity ${data.main.humidity}%`;
-        atmp.innerText = `Pressure ${data.main.pressure} hPa`;
+        wind.innerText = `Vânt ${data.wind.speed} m/s`;
+        humidity.innerText = `Umiditate ${data.main.humidity}%`;
+        atmp.innerText = `Presiune atmosferică ${data.main.pressure} hPa`;
     })
     .catch((error) => {
         console.log('Error:', error);
